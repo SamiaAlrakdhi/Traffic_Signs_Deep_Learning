@@ -8,10 +8,15 @@ In this project, we used Python and TensorFlow to classify traffic signs. The pr
 
 # Methodology
  1.Loading the dataset.
+ 
  2.Data Preprocessing.
+ 
  3.Design a Model Architecture.
+ 
  4.Model Training and Evaluation.
+ 
  5.Testing the Model using the Test Set.
+ 
  6.Testing the Model on New Images.
 
  
