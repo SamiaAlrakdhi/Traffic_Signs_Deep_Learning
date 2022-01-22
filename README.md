@@ -27,5 +27,6 @@ This dataset has more than 50,000 images of 43 classes. We able to reach a +99% 
 
 # Tools
 •	Technologies: Python using Jupyter notebook and Colab.
+
 •	Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Pickle, Skimage and Tensorflow.
 
