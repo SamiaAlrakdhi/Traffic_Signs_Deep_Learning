@@ -1,4 +1,4 @@
-# Traffic_Signs_Deep_Learning
+# Traffic Signs Deep Learning
 
 # Abstract 
 In this project, we used Python and TensorFlow to classify traffic signs. The project aimed to build deep learning model to predict traffic signs and identify which model is outperformed based on accuracy. We have trained our model using normalized_images, then we'll compute softmax cross entropy between logits and labels to measure the model's error probability. By using VGGNet, we've been able to reach a very high accuracy rate.
