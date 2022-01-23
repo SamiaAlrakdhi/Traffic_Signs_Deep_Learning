@@ -35,5 +35,5 @@ Download dataset : https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58
 # Tools
 •	Technologies: Python using Jupyter notebook and Colab.
 
-•	Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, Pickle, Skimage and Tensorflow.
+•	Libraries: Pandas, Numpy, Matplotlib, Sklearn, Pickle, Skimage and Tensorflow.
 
