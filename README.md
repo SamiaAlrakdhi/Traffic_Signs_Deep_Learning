@@ -26,6 +26,7 @@ In this project, we used Python and TensorFlow to classify traffic signs. The pr
 # Data
 Dataset used: German Traffic Sign Dataset.
 This dataset has more than 50,000 images of 43 classes. We able to reach a +99% validation accuracy, and a 97.3% testing accuracy.
+
 Download dataset : https://d17h27t6h515a5.cloudfront.net/topher/2017/February/5898cd6f_traffic-signs-data/traffic-signs-data.zip
 
 
